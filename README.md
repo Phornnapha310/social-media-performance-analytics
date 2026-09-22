@@ -33,6 +33,6 @@ I used a Recursive CTE to split hashtags into individual rows before calculating
 
 ## Project Links
 
-Power BI Dashboard: [View Dashboard](https://drive.google.com/file/d/1AnJFM2Uf_HDwZ--tOdGezq04SZM1Wk8U/view?usp=drive_link)
+Power BI Dashboard: [View Dashboard](https://drive.google.com/file/d/1PgAeyllYS7HPGdCRHSFNDtizb4J7PJ81/view?usp=sharing)
 
 SQL: [View SQL Files](https://github.com/Phornnapha310/social-media-performance-analytics/tree/main/SQL)
